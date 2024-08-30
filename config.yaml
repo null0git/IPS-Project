@@ -1,0 +1,9 @@
+email:
+  smtp_server: "smtp.example.com"
+  smtp_port: 587
+  smtp_user: "your-email@example.com"
+  smtp_password: "your-email-password"
+sms:
+  twilio_sid: "your_twilio_sid"
+  twilio_auth_token: "your_twilio_auth_token"
+  from_phone: "+0987654321"
